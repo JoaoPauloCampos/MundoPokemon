@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="recycler_horizontal_nargin">12dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="margin_mini">8dp</dimen>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="ratingbar_margin_top">3dp</dimen>
+</resources>

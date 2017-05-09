@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">" PokemonWorld"</string>
+    <string name="msg_erro_servidor_timeout">Não foi possível conectar ao servidor, tente mais tarde.</string>
+    <string name="msg_erro_resultado_nao_carregado">Não foi possivel carregar o resultado, tente novamente mais tarde.</string>
+    <string name="msg_erro_sem_conexao">Sem conexão com a internet.\nVerifique sua conexão e tente novamente</string>
+    <string name="msg_conectar_internet">Para um primeiro acesso, será necessário estar conectado a Internet.</string>
+    <string name="msg_volte_mais_tarde">Seus dispositivo está offline, volte mais tarde!</string>
+    <string name="msg_sincronizar">Sincronizando...</string>
+    <string name="msg_sincronizado">Sincronizado!</string>
+    <string name="nome">Nome: </string>
+    <string name="iniciar_batalha">Iniciar Batalha</string>
+    <string name="level">Level: </string>
+    <string name="resultado">Resultado: </string>
+    <string name="seu_pokemon">Seu Pokemón</string>
+    <string name="peso">Peso: </string>
+    <string name="altura">Altura: </string>
+    <string name="iniciar_jogo">INICIAR JOGO</string>
+    <string name="oponente_2">2º Oponente</string>
+    <string name="oponente_3">3º Oponente</string>
+    <string name="oponente_1">1º Oponente</string>
+    <string name="jogar_novamente">JOGAR NOVAMENTE</string>
+    <string name="vitoria">VITÓRIA</string>
+    <string name="derrota">DERROTA</string>
+    <string name="ok">OK</string>
+    <string name="clique_para_jogar_novamente">Clique para jogar novamente.</string>
+
+</resources>
